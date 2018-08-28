@@ -29,6 +29,8 @@ public class ServletRequestServlet extends HttpServlet {
 	writer.println("req.getRemoteAddr(): " + req.getRemoteAddr());
 	writer.println("req.getContentType(): " + req.getContentType());
 	writer.println("req.getRequestURI(): " + req.getRequestURI());
+
+	writer.close();
     }
 
 }
