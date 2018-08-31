@@ -1,0 +1,7 @@
+/proc/sys/kernel/watchdog_thresh
+/proc/sys/net/ipv4/ipfrag_high_thresh
+/proc/sys/net/ipv4/ipfrag_low_thresh
+/proc/sys/net/ipv4/route/flush
+/proc/sys/net/ipv4/route/gc_thresh
+/proc/sys/net/ipv4/xfrm4_gc_thresh
+
